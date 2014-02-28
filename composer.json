@@ -15,7 +15,7 @@
         }
     ],
     "autoload": {
-        "classmap": ["lessc.inc.php"]
+        "classmap": ["lessc.php"]
     },
     "extra": {
         "branch-alias": {
